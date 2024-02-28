@@ -8,3 +8,5 @@ The Files are:
 * Modell2_PV_m_Speicher_u_Solarthermie.mod
 * Modell2_PV_m_Speicher_u_Solarthermie_Speicherladung.wbk
 * Modell2_PV_m_Speicher_u_Solarthermie_Speicherladung.mod
+
+Produced with Witness Version 20.00 (Build 2264) --> You can open it with any newer version, but not with a lower one.
